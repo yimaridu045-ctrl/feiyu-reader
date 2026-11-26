@@ -1,5 +1,8 @@
 ﻿# 肥鱼阅读器（Feiyu Reader）
 
+> **作者 / 维护者：yimaridu045-ctrl** · GitHub：<https://github.com/yimaridu045-ctrl>
+> **完整使用说明书：[docs/使用说明.md](docs/使用说明.md)**（安装、界面、格式、快捷键、搜索、配置、FAQ 全在里面）
+
 一个单文件、免安装的 Windows 本地阅读器：**文本 / 图片 / 文档 / 电子书**都能读，带**百度百科联网搜索**和**阅读进度记忆**。
 
 界面按 DeepSeek Harness 的视觉风格实现（浅色/深色双主题、卡片式布局、蓝色主按钮）。
@@ -92,4 +95,5 @@ smoothScroll=0                  ; 1 = 启用像素平滑滚动（有已知边界
 [MIT](LICENSE) © 2026 yimaridu045-ctrl
 
 图标为 AI 生成的原创角色形象（`assets/icon.ico`），不涉及第三方版权。
+
 
