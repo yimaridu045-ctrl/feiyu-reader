@@ -1,9 +1,0 @@
-﻿肥鱼阅读器 2.0.0（免安装）　作者：yimaridu045-ctrl
-
-1. 双击「肥鱼阅读器.exe」直接使用，无需安装任何运行时
-2. 完整说明见同目录「使用说明.md」
-3. 建议发送到桌面快捷方式；右键属性可更换图标（icon.ico 已附带）
-
-作者 GitHub：https://github.com/yimaridu045-ctrl
-项目仓库：https://github.com/yimaridu045-ctrl/feiyu-reader
-许可：MIT
