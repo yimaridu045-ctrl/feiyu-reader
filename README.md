@@ -94,6 +94,6 @@ smoothScroll=0                  ; 1 = 启用像素平滑滚动（有已知边界
 
 [MIT](LICENSE) © 2026 yimaridu045-ctrl
 
-图标为 AI 生成的原创角色形象（`assets/icon.ico`），不涉及第三方版权。
+图标为 AI 生成的角色形象（`assets/icon.ico`），不涉及第三方版权。
 
 
